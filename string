@@ -33,7 +33,7 @@ s.at(1)='a';
 
 //索引获取字符串
 string s="Hello World";
-string sub=s.substr.(7.5)//索引从7开始，取5个字符
+string sub=s.substr.(7,5)//索引从7开始，取5个字符
 
 
 //插入字符串
@@ -48,4 +48,4 @@ s.erase(5, 1);  // 从索引 5 开始删除 1 个字符
 string s = "Hello, World!";
 s.replace(7, 5, "C++");  // 从索引 7 开始，替换 5 个字符
 
-
+```
