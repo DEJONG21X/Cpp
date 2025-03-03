@@ -32,3 +32,7 @@ cin.getline(数组名，最大长度）
 //修改char数组
 char array[]="hello";
 array[0]='H';//修改第一个字符
+
+//char指针
+char str[] = "Hello"; 
+char* ptr = str;  // 指向字符串的首地址
