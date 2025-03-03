@@ -27,3 +27,8 @@ strcmp(str1,str2);
 
 //整行读取char数组
 cin.getline(数组名，最大长度）
+
+
+//修改char数组
+char array[]="hello";
+array[0]='H';//修改第一个字符
