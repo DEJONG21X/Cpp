@@ -1,5 +1,4 @@
-```markdown
-```cpp
+```c++
 //string字符串初始化
 std::string s1 = "Hello";     // 直接初始化
 std::string s2("World");      // 使用构造函数
