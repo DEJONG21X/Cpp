@@ -1,4 +1,4 @@
-```c++
+```cpp
 //string字符串初始化
 std::string s1 = "Hello";     // 直接初始化
 std::string s2("World");      // 使用构造函数
@@ -46,5 +46,4 @@ s.erase(5, 1);  // 从索引 5 开始删除 1 个字符
 //替换子串
 string s = "Hello, World!";
 s.replace(7, 5, "C++");  // 从索引 7 开始，替换 5 个字符
-
 ```
